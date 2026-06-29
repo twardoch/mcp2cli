@@ -9,7 +9,7 @@ def test_bake_install_groups_script():
         tmpdir_path = Path(tmpdir)
         
         # Path to the script under test
-        script_path = Path(__file__).parent.parent.parent / "mcp2cli-bake-install-groups.sh"
+        script_path = Path(__file__).parent.parent / "mcp2cli-bake-install-groups.sh"
         assert script_path.exists(), f"Script not found at {script_path}"
         
         # We will create a mock mcp2cli executable in our temporary directory

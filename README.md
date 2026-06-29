@@ -5,7 +5,8 @@
 <h1 align="center">mcp2cli</h1>
 
 <p align="center">
-  Turn any MCP server, OpenAPI spec, or GraphQL endpoint into a CLI — at runtime, with zero codegen.<br>
+  Turn any MCP server, OpenAPI spec, or GraphQL endpoint into a CLI — at runtime, zero codegen.<br>
+  <a href="docs/">Documentation</a> ·
   <strong>Save 96–99% of the tokens wasted on tool schemas every turn.</strong><br><br>
   <a href="https://www.orangecountyai.com/blog/mcp2cli-one-cli-for-every-api-zero-wasted-tokens"><strong>Read the full writeup →</strong></a>
 </p>
